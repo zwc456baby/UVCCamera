@@ -10,9 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00af66e8-c4a4-4026-8d98-02b9fd619efe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/usbcameracommon/AbstractUVCCameraHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/usbcameracommon/AbstractUVCCameraHandler.java" afterDir="false" />
-    </list>
+    <list default="true" id="00af66e8-c4a4-4026-8d98-02b9fd619efe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +75,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="9" />
+          <entry key="class" value="10" />
           <entry key="gradle" value="20" />
-          <entry key="java" value="74" />
+          <entry key="java" value="77" />
           <entry key="mk" value="2" />
           <entry key="properties" value="1" />
           <entry key="xml" value="24" />
@@ -87,9 +85,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="9" />
+          <entry key="CLASS" value="10" />
           <entry key="Groovy" value="20" />
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="77" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="24" />
@@ -98,7 +96,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="7" />
-          <entry key="java" value="139" />
+          <entry key="java" value="167" />
           <entry key="mk" value="3" />
           <entry key="xml" value="63" />
         </counts>
@@ -106,7 +104,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="139" />
+          <entry key="JAVA" value="167" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="63" />
         </counts>
@@ -115,16 +113,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../usbCameraTest3/src/main/java/com/serenegiant/usbcameratest3/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="242" selection-start-line="242" selection-end-line="242" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#8740#8741#0" expanded="true" />
+                <element signature="e#8771#8772#0" expanded="true" />
+                <element signature="e#8878#8879#0" expanded="true" />
+                <element signature="e#8903#8904#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../libuvccamera/src/main/java/com/serenegiant/usb/UVCCamera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="337" column="23" lean-forward="true" selection-start-line="337" selection-start-column="23" selection-end-line="337" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/usbcameracommon/AbstractUVCCameraHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3574">
-              <caret line="477" column="9" selection-start-line="477" selection-start-column="9" selection-end-line="477" selection-end-column="9" />
+            <state relative-caret-position="164">
+              <caret line="527" column="39" lean-forward="true" selection-start-line="527" selection-start-column="39" selection-end-line="527" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5185#5186#0" expanded="true" />
                 <element signature="e#5241#5242#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Software/androidStudioSDK/platforms/android-27/android.jar!/java/lang/ref/Reference.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/widget/CameraViewInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -159,11 +204,9 @@
       <find>mEncoder</find>
       <find>camera_view</find>
       <find>onDialogResult</find>
-      <find>still</find>
       <find>captureStill</find>
       <find>UVCCameraHandler</find>
       <find>CameraThread</find>
-      <find>MSG_CAPTURE_STILL</find>
       <find>UVCCamera</find>
       <find>onSurfaceCreated</find>
       <find>UVCCame</find>
@@ -176,6 +219,8 @@
       <find>MSG_PREVIEW_START</find>
       <find>mPreviewMode</find>
       <find>mUVCCamera</find>
+      <find>still</find>
+      <find>MSG_CAPTURE_STILL</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,8 +249,8 @@
         <option value="$PROJECT_DIR$/../build.gradle" />
         <option value="$PROJECT_DIR$/../usbCameraCommon/build.gradle" />
         <option value="$PROJECT_DIR$/../libuvccamera/build.gradle" />
-        <option value="$PROJECT_DIR$/../usbCameraTest3/src/main/java/com/serenegiant/usbcameratest3/MainActivity.java" />
         <option value="$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/usbcameracommon/AbstractUVCCameraHandler.java" />
+        <option value="$PROJECT_DIR$/../usbCameraTest3/src/main/java/com/serenegiant/usbcameratest3/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -557,7 +602,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.usbCameraTest3">
+  <component name="RunManager" selected="Gradle.D:/androidProject/UVCCamera/usbCameraCommon [assemble]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -1152,17 +1197,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25692964" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25692964" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.32908162" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.24728851" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
@@ -1171,7 +1215,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.20955484" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.20955484" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.090618335" />
@@ -1460,20 +1504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Software/androidStudioSDK/platforms/android-27/android.jar!/java/lang/ref/Reference.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/widget/CameraViewInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Software/androidStudio/.gradle/caches/transforms-1/files-1.1/common-2.12.4.aar/54ef8c0df9d45b05afaa04c83ef46807/jars/classes.jar!/com/serenegiant/widget/IAspectRatioView.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1516,29 +1546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../libuvccamera/src/main/java/com/serenegiant/usb/UVCCamera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="297" column="30" selection-start-line="297" selection-start-column="16" selection-end-line="297" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../usbCameraTest3/src/main/java/com/serenegiant/usbcameratest3/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="239" column="17" selection-start-line="239" selection-start-column="17" selection-end-line="239" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#8439#8440#0" expanded="true" />
-            <element signature="e#8476#8477#0" expanded="true" />
-            <element signature="e#8740#8741#0" expanded="true" />
-            <element signature="e#8771#8772#0" expanded="true" />
-            <element signature="e#8878#8879#0" expanded="true" />
-            <element signature="e#8903#8904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../usbCameraTest0/src/main/java/com/serenegiant/usbcameratest0/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -1559,10 +1566,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../libuvccamera/src/main/java/com/serenegiant/usb/UVCCamera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="337" column="23" lean-forward="true" selection-start-line="337" selection-start-column="23" selection-end-line="337" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/widget/CameraViewInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../usbCameraTest3/src/main/java/com/serenegiant/usbcameratest3/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8740#8741#0" expanded="true" />
+            <element signature="e#8771#8772#0" expanded="true" />
+            <element signature="e#8878#8879#0" expanded="true" />
+            <element signature="e#8903#8904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Software/androidStudioSDK/platforms/android-27/android.jar!/java/lang/ref/Reference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../usbCameraCommon/src/main/java/com/serenegiant/usbcameracommon/AbstractUVCCameraHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3574">
-          <caret line="477" column="9" selection-start-line="477" selection-start-column="9" selection-end-line="477" selection-end-column="9" />
+        <state relative-caret-position="164">
+          <caret line="527" column="39" lean-forward="true" selection-start-line="527" selection-start-column="39" selection-end-line="527" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5185#5186#0" expanded="true" />
