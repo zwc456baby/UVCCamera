@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.serenegiant:common:2.12.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Software/androidStudio/.gradle/caches/transforms-1/files-1.1/common-2.12.4.aar/54ef8c0df9d45b05afaa04c83ef46807/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Software/androidStudio/.gradle/caches/transforms-1/files-1.1/common-2.12.4.aar/54ef8c0df9d45b05afaa04c83ef46807/jars/classes.jar!/" />
+      <root url="file://D:/Software/androidStudio/.gradle/caches/transforms-1/files-1.1/common-2.12.4.aar/54ef8c0df9d45b05afaa04c83ef46807/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
